@@ -1,5 +1,5 @@
 module.exports = {
-    plugins: 'react',
+    plugins: ['react'],
     extends: ['eslint:recommended', 'plugin:react/recommended'],
     parser: 'babel-eslint',
     env: {
